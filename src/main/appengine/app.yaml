@@ -1,3 +1,2 @@
 runtime: java11
-env: standard
-instance_class: F4
+Main-Class: GreetingsApplication
